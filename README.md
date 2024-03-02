@@ -18,3 +18,4 @@ After this check if tyhe gpu can be detected in the wsl
 ```shell
 nvidia-smi
 ```
+![Screenshot 2024-03-02 175725](https://github.com/oyasizaki/Docker-GPU-activation/assets/118342512/653a60d6-8f4b-4f56-8c45-b92293eaaf95)
